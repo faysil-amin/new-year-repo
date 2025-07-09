@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Ancizar+Sans:ital,wght@0,100..1000;1,100..1000&family=Boldonse&family=Edu+VIC+WA+NT+Hand:wght@400..700&family=Farro:wght@300;400;500;700&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Miniver&family=Nunito:ital,wght@0,200..1000;1,200..1000&family=Pacifico&family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100..900;1,100..900&family=Sora:wght@100..800&display=swap');
+
+* {
+    overflow-x: hidden;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Plus Jakarta Sans", sans-serif;
+}
+
+/* select */
+.h1{
+    font-size: 72px;
+}
+.h4{
+    font-size: 32px;
+}
+.text-align{
+    text-align: center;
+}
+.banner {
+    background-image: url(../images/Banner\ Image.png);
+    margin: 50px 140px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    max-width: 1320px;
+    min-height: 446px;
+}
+
+.banner-container {
+    max-width: 1320px;
+    min-height: 438px;
+    background-color: rgba(0, 0, 0, 0.61);
+    border-radius: 10px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.banner-text{
+    width: 632px;
+}
+
+.main-one-h1{
+    text-align: center;
+    font-size: 88px;
+    color: red;
+    margin-top: 120px;
+}
+.main-one-p{
+    font-size: 24px;
+    color: red;
+    text-align: center;
+}
+
+.main-one-h4{
+    font-size: 48px;
+    font-weight: 700;
+    text-align: center;
+}
+.main-one-img{
+    width: 802px;
+    width: 500px;
+    margin: 0 399px;
+}
+
+.main-two-img{
+    background-image: url(../images/Vectorrr.png);
+    max-width: 1320px;
+    min-height: 438px;
+    margin: 120px 140px;
+    background-size: contain;
+}
+
+.main-two-container{
+    max-width: 1320px;
+    min-height: 438px;
+    background-color: rgba(0, 0, 0, 0.61);
+    border-radius: 10px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.main-two-h1{
+    font-size: 64px;
+
+}
+
+.main-two-text{
+    width: 662px;
+   
+}
