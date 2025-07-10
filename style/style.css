@@ -117,3 +117,89 @@
     border-radius: 5px;
     margin-top: 48px;
 }
+
+.main-four{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 120px 140px;
+}
+.main-four-box-one{
+    width: 300px;
+}
+.main-four-box-two{
+    width: 300px;
+}
+.main-four-box-para-one{
+    color: red;
+    font-size: 12px;
+    font-weight: 500;
+}
+.main-four-box-para-two{
+    color: #070211;
+    font-size: 12px;
+}
+
+.main-four-box img{
+    max-width: 250px;
+    border-radius: 50%;
+    border: 8px solid red;
+    padding: 10px;
+}
+.four-box-h1{
+    color: red;
+    font-weight: 700;
+}
+.main-four-para{
+    font-size: 12px;
+    color: #070211;
+}
+
+
+.main-five-div{
+    margin: 0 266px;
+}
+
+.main-five h5{
+    font-weight: 500;
+    font-size: 24px;
+    text-align: center;
+}
+.main-five h1{
+    font-weight: 800;
+    font-size: 72px;
+    text-align: center;
+}
+.main-five span{
+    color: red;
+}
+
+.main-five p{
+    color: #070211;
+    font-size: 12px;
+    text-align: center;
+}
+
+
+.main-five-two{
+    background-image: url(../images/Rectangle\ 2.png);
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: contain;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 120px 180px;
+        position: relative;
+}
+.main-five-two-img-one{
+    width: 500px;
+    margin-left: 50px;
+}
+.main-five-two-img-two{
+    width: 205px;
+    bottom: 200px;
+    position: absolute;
+    bottom: 150px;
+    right: 0;
+}
